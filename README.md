@@ -8,6 +8,5 @@
 # If you want to contact with me:
 - [LinkedIn Profile](https://www.linkedin.com/in/piotr-oleksy-programmer/)
 - [Email](mailto:piotr.oleksy.24@gmail.com)
- - Phone number: **+48 793 033 007**
  
  ### *Have a nice day with a fresh Ideas! :)*
