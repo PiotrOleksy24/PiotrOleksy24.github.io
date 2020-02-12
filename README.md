@@ -9,4 +9,4 @@
 - [LinkedIn Profile](https://www.linkedin.com/in/piotr-oleksy-programmer/)
 - [Email](mailto:piotr.oleksy.24@gmail.com)
  
- ### *Have a nice day with a fresh Ideas! :)*
+ ### *Have a nice day with a fresh Ideas! :)* ###
