@@ -1,6 +1,6 @@
 # **Welcome to my github pages with my open source projects**
-## There is my repository:
-[REPOSITORY](https://github.com/PiotrOleksy24?tab=repositories)
+## There is my repositories:
+[REPOSITORIES](https://github.com/PiotrOleksy24?tab=repositories)
 ## You can try how my Angular APPs work on your web browser:
 1. [Task List](https://piotroleksy24.github.io/lista-zadan/)
 
