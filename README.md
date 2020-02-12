@@ -2,7 +2,7 @@
 
 ## You can check my code on my repository:
 [REPOSITORY](https://github.com/PiotrOleksy24?tab=repositories)
-## And try how it works on your web browser:
+## You can try how my Angular APPs works on your web browser:
 1. [Task List](https://piotroleksy24.github.io/lista-zadan/)
 
 # If you want to contact with me:
