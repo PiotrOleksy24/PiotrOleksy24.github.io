@@ -10,4 +10,4 @@
 - [Email](mailto:piotr.oleksy.24@gmail.com)
  - Phone number: **+48 793 033 007**
  
- # Have a nice day with a fresh Ideas! :)
+ ### *Have a nice day with a fresh Ideas! :)*
