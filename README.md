@@ -6,7 +6,7 @@
 1. [Task List](https://piotroleksy24.github.io/lista-zadan/)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/piotr-oleksy-programmer/)
-- [Email](piotr.oleksy.24@gmail.com)
+- [Email](mailto:piotr.oleksy.24@gmail.com)
 ## Phone number **+48 793 033 007**
 
 
