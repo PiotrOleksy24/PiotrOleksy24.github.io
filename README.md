@@ -2,7 +2,7 @@
 
 ## You can check my Angular APP codes below: 
 ## And try it how it works on your web browser:
-[Task List](https://piotroleksy24.github.io/lista-zadan/)
+1. [Task List](https://piotroleksy24.github.io/lista-zadan/)
 
 ================================================================================================================================
   ## Welcome to GitHub Pages
